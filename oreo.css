@@ -1,0 +1,99 @@
+body 	{background-color: #B2C9AB;
+		color: #3C3E4E;
+		font-family: Arial, Tahoma, sans-serif;}
+header	{background-color: #E8DDB5;
+		text-align: center;
+		border: 4px outset #3C3E4E;
+		margin: 1em;
+		padding: 1px;
+		display: block;}
+main	{background-color: #B2C9AB;
+		background-size: 100%;
+		margin-left: 100px;
+		display: block;
+		padding-bottom: 20px;
+		padding-top: 10px;
+		display: block;}
+h1		{line-height: 100%;
+		font-style: initial;
+		font-size: 3em;
+		color: #444759;
+		text-align: center;
+		padding-left: 10px;
+		margin-left: 10px;}
+h2		{padding-top: 0;
+		padding-bottom: 0;
+		text-decoration: underline;
+		margin-bottom: 2px;
+		margin-left: 10px;}
+h3		{padding-top: 5px;
+		padding-bottom: 0;
+		text-decoration: underline;
+		margin-bottom: 2px;
+		margin-left: 10px;}
+h4		{margin-left: 10px;}
+p		{padding: 0 3em 0 3em;
+		font-size: 1em;
+		position: relative;
+		right: 10px;
+		margin-top: 20px;}
+nav		{text-align: center;
+		font-size: 1.4em;
+		font-weight: bold;
+		float:left;
+		width: 100px;
+		display: block;}
+nav a	{text-decoration: none;}
+nav a:hover	{color: #339900;}
+footer	{background-color: #E8DDB5;
+		font-size: .70em;
+		font-style: italic;
+		text-align: center;
+		clear: both;
+		padding: .5em 0 .5em 0;
+		display: block;}
+#wrapper 	{width: 80%;
+			background-color: #DDE7DA;
+			margin-left: auto;
+			margin-right: auto;
+			box-shadow: 6px 6px 6px #818181;
+			min-width: 950px;
+			max-width: 1300px;
+			margin: 2em;}
+div		{padding-left: 1em;
+		padding-right: 1em;
+		padding-top: 10px;
+		padding-bottom: 10px;}
+*		{box-sizing: border-box;}	
+.floatright	{float: right;
+			padding-right: 1em;
+			padding-bottom: 1em;
+			background-size: 100%;}
+#friends	{background-image: url(images/friends-window.jpg);
+			background-repeat: no-repeat;
+			background-size: 100%;
+			background-position: center;}
+nav ul		{list-style-type: none;
+			padding-left: 0;}
+dl			{font-weight: bold;
+			padding: 0 0 0 0;
+			margin: 0.25em;}
+dd			{padding: 0 .5em .5em .5em;
+			font-size: 0.6em;}
+.image1		{float: right;
+			padding-bottom: 0.25em;
+			margin-bottom: 2em;}
+.image2		{float: left;
+			margin-right: 0.8em}
+.image3		{margin-left: auto;
+			margin-right: auto;
+			display: block;}
+.img		{margin-left: 1em;}
+.divCat		{height: 210px;}
+.divMain	{height: 320px;}
+table 		{border-collapse: collapse;
+			margin: 5px 0 15px 12px;}
+table, th, td {border: 1px solid #3C3E4E;
+				padding: 2px 5px 2px 5px;}
+ul			{padding: 40px 4px 10px 30px;}
+dt			{margin-top: 20px;}
